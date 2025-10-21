@@ -1,1 +1,13 @@
 # Data-Processing-using-python
+
+We will select a raw dataset from Kaggle  ( Hotel Bookings )
+Perform a cleanup on it using the guidelines:
+- Feature engineering
+- One-hot encoding
+- Filling Nan and Null values with appropriate values
+- Scaling: Changing the range of your data
+- Normalization: Adjusting the shape of your data's distribution
+- Encoding: Converting categorical data to numbers
+- Discuss and write a paper with all the techniques we implemented
+- show the data before and after cleanup
+- how we will use this dataset to solve an ML problem
