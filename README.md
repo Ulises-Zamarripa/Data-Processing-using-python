@@ -1,5 +1,7 @@
 # Data-Processing-using-python
 
+Download the .ipynb and the .csv files into the same folder
+
 We will select a raw dataset from Kaggle  ( Hotel Bookings )
 Perform a cleanup on it using the guidelines:
 - Feature engineering
