@@ -11,5 +11,5 @@ Perform a cleanup on it using these guidelines:
 - Normalization: Adjusting the shape of your data's distribution
 - Encoding: Converting categorical data to numbers
 - Discuss and write a paper with all the techniques we implemented
-- show the data before and after cleanup
-- how we will use this dataset to solve an ML problem
+- Show the data before and after cleanup
+- How we will use this dataset to solve a real-world ML problem
