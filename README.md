@@ -1,4 +1,4 @@
-# Cleanup-and-data-preparation-of-a-dataset-using-python
+# Cleanup-and-preparation-of-a-dataset-using-python
 
 -Make sure you download the .ipynb and the .csv files into the same folder-
 
