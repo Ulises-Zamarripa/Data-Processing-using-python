@@ -1,9 +1,9 @@
-# Data-Processing-using-python
+# Cleanup-and-data-preparation-of-a-dataset-using-python
 
-Download the .ipynb and the .csv files into the same folder
+-Make sure you download the .ipynb and the .csv files into the same folder-
 
-We will select a raw dataset from Kaggle  ( Hotel Bookings )
-Perform a cleanup on it using the guidelines:
+In this repository, we (SKYNET) will select a raw dataset from Kaggle  ( Hotel Bookings )
+Perform a cleanup on it using these guidelines:
 - Feature engineering
 - One-hot encoding
 - Filling Nan and Null values with appropriate values
