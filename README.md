@@ -9,5 +9,5 @@ Perform a cleanup on it using these guidelines:
 - Normalization: Adjusting the shape of your data's distribution
 - Encoding: Converting categorical data to numbers
 - Show the data before and after cleanup
+We will also discuss and write a paper detailing all the techniques we implemented, as well as our plans to use this dataset to solve a real-world machine learning problem.
 
-We will also discuss and write a paper with all the techniques we implemented. And how we plan to use this dataset to solve a real-world ML problem
