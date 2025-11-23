@@ -39,7 +39,7 @@ Choose the guidelines based on type of your project Regression or Classification
 ---------------------------------------------------------------------------------------------------------------Submit Presentation - Specific student contribution - 20 points
 
 
--Each student must show his/her contribution in a separate document and submit it. The contribution summary can be combined in one document (max 2-3 pages), no need to submit separate documents. If a specific student has not provided his/her contribution that student will not get
+-Each student must show his/her contribution in a separate document and submit it. The contribution summary can be combined in one document (max 2-3 pages), no need to submit separate documents. If a specific student has not provided his/her contribution that student will not get a grade
 
 
 
@@ -106,3 +106,4 @@ Choose the guidelines based on type of your project Regression or Classification
 
 
 .
+
