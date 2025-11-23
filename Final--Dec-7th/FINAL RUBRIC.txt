@@ -36,15 +36,18 @@ Choose the guidelines based on type of your project Regression or Classification
 -Output comparison table (Validation & Test metrics for all models, see ModelDiscussionGuidelines.xlsx for guidelines) (submit pdf file)
 -Provide an analysis on which model performed best and why and Submit report with write up discussing entire approach. (submit pdf file)
 
----------------------------------------------------------------------------------------------------------------Submit Presentation - Specific student contribution - 20 points
+-------------------------------------------------------------------------------------------------Submit Presentation - Specific student contribution - 20 points
 
 
--Each student must show his/her contribution in a separate document and submit it. The contribution summary can be combined in one document (max 2-3 pages), no need to submit separate documents. If a specific student has not provided his/her contribution that student will not get a grade
+-Each student must show his/her contribution. The contribution summary can be combined in one document (max 2-3 pages), no need to submit separate documents. If a specific student has not provided his/her contribution that student will not get credit for submission (submit pdf file)
+
+
 
 
 
 
 ################     CLASSIFICATION PROBLEM - 100pts   ###############
+
 
 -----------------------------------------------------------------------Preprocess the data: - 5 points
 
@@ -73,7 +76,7 @@ Choose the guidelines based on type of your project Regression or Classification
 -Evaluate on the Validation and Test set
 -Run a Bayesian ensemble model and compare the predictions with Voting or average predictions.
 
-------------------------------------------------------------------------------------------------------------------------------------------Submit Deliverables: - 25 points
+--------------------------------------------------------------------------------------------------------------------------------Submit Deliverables: - 25 points
 
 
 -Submit Code (jpynb notebook) and data file (csv). If data file is too big provide the URL
@@ -106,4 +109,5 @@ Choose the guidelines based on type of your project Regression or Classification
 
 
 .
+
 
