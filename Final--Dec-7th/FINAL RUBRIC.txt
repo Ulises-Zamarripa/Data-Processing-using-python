@@ -17,6 +17,7 @@ Choose the guidelines based on type of your project Regression or Classification
 -Random Forest Regressor
 -Gradient Boosting Regressor (e.g., XGBoost or LightGBM)
 -K-Nearest Neighbors Regressor
+
 ----------------------------------------------------------------------Validate and Compare all models: - 20 points
 -Mean Absolute Error (MAE)
 -Mean Squared Error (MSE)
@@ -109,6 +110,7 @@ Choose the guidelines based on type of your project Regression or Classification
 
 
 .
+
 
 
 
