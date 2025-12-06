@@ -42,7 +42,7 @@ Test (15%)
 
 -Run a Bayesian ensemble model and compare the predictions with Voting or average predictions.
 
------------------------------------------------------------------------------------------------------------------------Submit Deliverables: - 25 points ( 1 / 3 ) ( TO DO )
+-------------------------------------------------------------------------------------------------Submit Deliverables: - 25 points ( 1 / 3 ) ( TO DO )
 
 -Submit Code (jpynb notebook) and data file (csv). If data file is too big provide the URL
 
@@ -50,7 +50,7 @@ Test (15%)
 
 -Provide an analysis on which model performed best and why and Submit report with write up discussing entire approach. (submit pdf file)
 
-----------------------------------------------------------------------------------------------Submit Presentation - Specific student contribution - 20 points ( TO DO )
+--------------------------------------------------------------------------------Submit Presentation - Specific student contribution - 20 points ( TO DO )
 
 -Each student must show his/her contribution. The contribution summary can be combined in one document (max 2-3 pages), no need to submit separate documents. If a specific student has not provided his/her contribution that student will not get credit for submission (submit pdf file)
 
@@ -75,6 +75,7 @@ Test (15%)
 
 
 .
+
 
 
 
