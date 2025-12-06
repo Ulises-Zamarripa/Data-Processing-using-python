@@ -50,7 +50,7 @@ Test (15%)
 
 -Provide an analysis on which model performed best and why and Submit report with write up discussing entire approach. (submit pdf file)
 
---------------------------------------------------------------------------------Submit Presentation - Specific student contribution - 20 points ( TO DO )
+------------------------------------------------------------Submit Presentation - Specific student contribution - 20 points ( TO DO )
 
 -Each student must show his/her contribution. The contribution summary can be combined in one document (max 2-3 pages), no need to submit separate documents. If a specific student has not provided his/her contribution that student will not get credit for submission (submit pdf file)
 
@@ -75,6 +75,7 @@ Test (15%)
 
 
 .
+
 
 
 
