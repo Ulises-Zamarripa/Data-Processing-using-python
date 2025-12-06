@@ -15,4 +15,4 @@ We will also discuss and write a paper detailing all the techniques we implement
 
 # Make sure you download the .ipynb and the .csv files into the same folder
 
-the .csv file can be found in the data folder
+the .csv files can be found in the data folder
