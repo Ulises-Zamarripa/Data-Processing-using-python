@@ -14,7 +14,7 @@ Cleaning: *Did you remove empty rows? Did you replace missing values with the av
 
 Filtering: (of data)
 
--Feature Engineering: 
+- Feature Engineering: 
 
 New features created:
 - total_guests
