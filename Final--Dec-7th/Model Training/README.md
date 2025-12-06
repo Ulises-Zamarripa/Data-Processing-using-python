@@ -1,14 +1,14 @@
-Training our model using:
+Training using:
 
 -Logistic Regression
 
--Decision Tree Classifier
+-Decision Tree Classifier 
 
--Random Forest Classifier
+-Random Forest Classifier 
 
--Gradient Boosting Classifier (e.g., XGBoost or LightGBM)
+-Gradient Boosting Classifier (e.g., XGBoost or LightGBM) 
 
--K-Nearest Neighbors Classifier
+-K-Nearest Neighbors Classifier 
 
 -Support Vector Classifier (SVC3)
 
