@@ -1,4 +1,4 @@
-# Cleanup-and-preparation-of-a-dataset-using-python
+# Cleanup-and-preparation-of-Hotel-Bookings-using-python
 
 In this repository, we (SKYNET) will select a raw dataset from Kaggle  ( Hotel Bookings )
 Perform a cleanup on it using these guidelines:
