@@ -10,9 +10,7 @@ Data Type: text (string)
 
 - Processing Notes:
 
-Cleaning: *Did you remove empty rows? Did you replace missing values with the average?*
-
-Filtering: (of data)
+Cleaning: Filling Nan and Null vallues
 
 - Feature Engineering: 
 
