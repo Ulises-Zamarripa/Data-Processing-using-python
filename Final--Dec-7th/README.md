@@ -1,4 +1,4 @@
-- FINAL ML PROJECT -
+-FINAL ML PROJECT-
 
 
 ################     CLASSIFICATION PROBLEM - 100pts   ###############
@@ -75,5 +75,6 @@ Test (15%)
 
 
 .
+
 
 
