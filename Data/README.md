@@ -2,22 +2,24 @@
 
 https://www.kaggle.com/datasets/mathsian/hotel-bookings?select=hotel_bookings.csv
 
-Collection date: 2025
+Collection date: 2015 - 2017 
 
-- The Data Dictionary (What does it mean?) This is usually the most important part. You need to explain every column (variable) in your table.
+Description: This data sets contains the information of 119,390 hotel bookings
 
-Column Name: The exact name in the file (e.g., temp_c).
-
-Description: What is it? (e.g., "Daily average temperature").
-
-Units: Is it in Dollars? Meters? Celsius?
-
-Data Type: Is it a number (integer/float), text (string), or a date?
+Data Type: text (string)
 
 - Processing Notes:
 
-Cleaning: Did you remove empty rows? Did you replace missing values with the average?
+Cleaning: *Did you remove empty rows? Did you replace missing values with the average?*
 
-Filtering: Did you exclude certain data? (e.g., "I removed all rows where age was under 18").
+Filtering: (of data)
 
--Feature Engineering: features added./..
+-Feature Engineering: 
+
+New features created:
+- total_guests
+- stay_duration
+- is_family
+- arrival_date
+- arrival_month_num
+- is_weekend_arrival
